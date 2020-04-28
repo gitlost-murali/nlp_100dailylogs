@@ -6,3 +6,6 @@ Will be logging my daily learning progress here.
     Todo -> Lecture-1 Notes, Suggested
      readings, Softmax differentation and Assignment-1(in 1 week) 
 
+#### Day 2 -> Apr 26th [224N Lecture-1 Notes 7/14](http://web.stanford.edu/class/cs224n/)
+
+#### Day 3 -> Apr 28th [224N Lecture-1 Notes 7-10/14](http://web.stanford.edu/class/cs224n/)
