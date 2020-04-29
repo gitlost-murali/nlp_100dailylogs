@@ -6,6 +6,13 @@ Will be logging my daily learning progress here.
     Todo -> Lecture-1 Notes, Suggested
      readings, Softmax differentation and Assignment-1(in 1 week) 
 
-#### Day 2 -> Apr 26th [224N Lecture-1 Notes 7/14](http://web.stanford.edu/class/cs224n/)
+#### Day 2 -> Apr 26th [224N Lecture-1 Notes on WordVec 7/14](http://web.stanford.edu/class/cs224n/)
 
-#### Day 3 -> Apr 28th [224N Lecture-1 Notes 7-10/14](http://web.stanford.edu/class/cs224n/)
+#### Day 3 -> Apr 28th [224N Lecture-1 Notes on WordVec 7-10/14](http://web.stanford.edu/class/cs224n/)
+
+#### Day 4 -> Apr 29th 
+[224N Lecture-1 Notes completed](http://web.stanford.edu/class/cs224n/)
+
+[224N Suggested material blog completed - Part 1&2 on Subsampling of frequent words and Negative sampling](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
+
+[Heirarchical Softmax](https://www.youtube.com/watch?v=ioe1eeEWU0I)
