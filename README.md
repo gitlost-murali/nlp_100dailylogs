@@ -16,3 +16,7 @@ Will be logging my daily learning progress here.
 [224N Suggested material blog completed - Part 1&2 on Subsampling of frequent words and Negative sampling](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
 
 [Heirarchical Softmax](https://www.youtube.com/watch?v=ioe1eeEWU0I)
+
+#### Day 5 -> Apr 29th 
+
+Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/).
