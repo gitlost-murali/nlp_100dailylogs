@@ -22,3 +22,5 @@ Will be logging my daily learning progress here.
 Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/).
 
 #### Day 6 -> May 01st [224N Lecture-2](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2)
+
+#### Day 7 -> May 03rd [224N Assignment-1](http://web.stanford.edu/class/cs224n/)
