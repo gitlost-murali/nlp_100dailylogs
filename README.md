@@ -24,3 +24,5 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 #### Day 6 -> May 01st [224N Lecture-2](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2)
 
 #### Day 7 -> May 03rd [224N Assignment-1](http://web.stanford.edu/class/cs224n/)
+
+#### Day 8 -> May 06th [224N Lecture-2 Notes](http://web.stanford.edu/class/cs224n/)
