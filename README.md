@@ -29,6 +29,6 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 
 #### Day 9 -> May 07th [224N Lecture-3 Video](https://www.youtube.com/watch?v=8CWyBNX6eDo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=3)
 
-#### Day 10 -> May 09th [224N Original GloVe paper)](http://nlp.stanford.edu/pubs/glove.pdf) and paper discussion on [Text-to-Text Transformer-T5 paper](https://arxiv.org/abs/1910.10683)
+#### Day 10 -> May 09th [224N Original GloVe paper](http://nlp.stanford.edu/pubs/glove.pdf) and paper discussion on [Text-to-Text Transformer-T5 paper](https://arxiv.org/abs/1910.10683)
 
 #### Day 11 -> May 11th [224N Paper - Improving Distributional Similarity with Lessons Learned from Word Embeddings)](http://www.aclweb.org/anthology/Q15-1016)
