@@ -31,4 +31,6 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 
 #### Day 10 -> May 09th [224N Original GloVe paper](http://nlp.stanford.edu/pubs/glove.pdf) and paper discussion on [Text-to-Text Transformer-T5 paper](https://arxiv.org/abs/1910.10683)
 
-#### Day 11 -> May 11th [224N Paper - Improving Distributional Similarity with Lessons Learned from Word Embeddings)](http://www.aclweb.org/anthology/Q15-1016)
+#### Day 11 -> May 11th [224N Paper - Improving Distributional Similarity with Lessons Learned from Word Embeddings](http://www.aclweb.org/anthology/Q15-1016)
+
+#### Day 12 -> May 12th [Paper summary - LongFormer: The Long-Document Transformer](https://www.youtube.com/watch?v=_8KNb5iqblE)
