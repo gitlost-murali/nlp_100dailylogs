@@ -36,3 +36,5 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 #### Day 12 -> May 12th [Paper summary - LongFormer: The Long-Document Transformer](https://www.youtube.com/watch?v=_8KNb5iqblE)
 
 #### Day 13 -> May 15th [224N Lecture-3 Notes 5/18](http://web.stanford.edu/class/cs224n/)
+
+#### Day 14 -> May 17th [224N Lecture-3 Notes](http://web.stanford.edu/class/cs224n/)
