@@ -42,3 +42,5 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 #### Day 15 -> May 18th [224N Lecture-4 Video](https://www.youtube.com/watch?v=8CWyBNX6eDo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=4)
 
 #### Day 16 -> May 19th [224N Lecture-4 Video & Lecture-3 Notes-Code on Word-Window classifier](https://www.youtube.com/watch?v=8CWyBNX6eDo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=4)
+
+#### Day 17 -> May 21st [NLP Data Augmentation blog](https://amitness.com/2020/05/data-augmentation-for-nlp/) and [Stanford project notes on Data Augmentation](https://web.stanford.edu/class/cs224u/2019/materials/cs224-2019-data-augmentation.pdf)
