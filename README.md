@@ -46,3 +46,5 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 #### Day 17 -> May 21st [NLP Data Augmentation blog](https://amitness.com/2020/05/data-augmentation-for-nlp/) and [Stanford project notes on Data Augmentation](https://web.stanford.edu/class/cs224u/2019/materials/cs224-2019-data-augmentation.pdf)
 
 #### Day 18 -> May 22nd [Slides for Data Augmentation](https://amitness.com/2020/05/data-augmentation-for-nlp/)
+
+#### Day 19 -> May 23rd [Paper Discussion on Self-Attention & Convolutio](https://arxiv.org/abs/1911.03584)
