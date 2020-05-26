@@ -49,4 +49,6 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 
 #### Day 19 -> May 23rd [Paper Discussion on Self-Attention & Convolution](https://arxiv.org/abs/1911.03584)
 
-#### Day 20 -> May 25th [224 Assignment-2](http://web.stanford.edu/class/cs224n/)
+#### Day 20 -> May 25th [224 Assignment-2 Theoretical questions](http://web.stanford.edu/class/cs224n/)
+
+#### Day 21 -> May 26th [224 Assignment-2 Practical questions](http://web.stanford.edu/class/cs224n/)
