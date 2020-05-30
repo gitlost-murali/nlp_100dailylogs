@@ -54,3 +54,5 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 #### Day 21 -> May 26th [224 Assignment-2 Practical questions](http://web.stanford.edu/class/cs224n/)
 
 #### Day 22 -> May 29th [224 Lecture-5 Video](https://www.youtube.com/watch?v=nC9_RfjYwqA&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=5)
+
+#### Day 23 -> May 30th [Paper reading & Discussion -> Experience Grounds Language](https://arxiv.org/abs/2004.10151)
