@@ -58,3 +58,5 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 #### Day 23 -> May 30th [Paper reading & Discussion -> Experience Grounds Language](https://arxiv.org/abs/2004.10151)
 
 #### Day 24 -> Jun 2nd [Lecture-5 Notes on Dependency Parsing](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes04-dependencyparsing.pdf) and [Lecture-5 remaining video](https://www.youtube.com/watch?v=nC9_RfjYwqA&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=5)
+
+#### Day 25 -> Jun 3rd [Lecture-4 Suggested reading on Backprop & Computation graphs](http://cs231n.github.io/optimization-2/)
