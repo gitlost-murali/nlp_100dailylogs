@@ -62,3 +62,5 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 #### Day 25 -> Jun 3rd [Lecture-4 Suggested reading on Backprop & Computation graphs](http://cs231n.github.io/optimization-2/)
 
 #### Day 26 -> Jun 4th [GPT-3 Paper Summary - Video](https://www.youtube.com/watch?v=SY5PvZrJhLE) and [Karpathy - Yes, you should understand Backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
+
+#### Day 27 -> Jun 7th [224 Lecture-6 Language Modeling](https://www.youtube.com/watch?v=iWea12EAu6U&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=6)
