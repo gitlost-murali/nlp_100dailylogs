@@ -63,4 +63,8 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 
 #### Day 26 -> Jun 4th [GPT-3 Paper Summary - Video](https://www.youtube.com/watch?v=SY5PvZrJhLE) and [Karpathy - Yes, you should understand Backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 
-#### Day 27 -> Jun 7th [224 Lecture-6 Language Modeling](https://www.youtube.com/watch?v=iWea12EAu6U&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=6)
+#### Day 27 -> Jun 6th [224 Lecture-6 Language Modeling](https://www.youtube.com/watch?v=iWea12EAu6U&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=6)
+
+#### Day 28 -> Jun 7th [Blog on Zero-shot](https://amitness.com/2020/05/zero-shot-text-classification/) and [Pattern-Exploiting Training for NLP!](https://www.youtube.com/watch?v=01jRE9noSWw) and Revisited [Word-Translation without Parallel Data](https://arxiv.org/abs/1710.04087)
+
+#### Day 29 -> Jun 8th Paper reading -[A Fast and Accurate Dependency Parser using Neural Networks](https://www.emnlp2014.org/papers/pdf/EMNLP2014082.pdf) and [224 Assignment-3 Theory on Adam, Dropout](http://web.stanford.edu/class/cs224n/)
