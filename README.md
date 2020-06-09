@@ -68,3 +68,5 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 #### Day 28 -> Jun 7th [Blog on Zero-shot](https://amitness.com/2020/05/zero-shot-text-classification/) and [Pattern-Exploiting Training for NLP!](https://www.youtube.com/watch?v=01jRE9noSWw) and Revisited [Word-Translation without Parallel Data](https://arxiv.org/abs/1710.04087)
 
 #### Day 29 -> Jun 8th Paper reading -[A Fast and Accurate Dependency Parser using Neural Networks](https://www.emnlp2014.org/papers/pdf/EMNLP2014082.pdf) and [224 Assignment-3 Theory on Adam, Dropout](http://web.stanford.edu/class/cs224n/)
+
+#### Day 30 -> Jun 9th Blog - [PEGASUS: A State-of-the-Art Model for Abstractive Text Summarization](https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html)
