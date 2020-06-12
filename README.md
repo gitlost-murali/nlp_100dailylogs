@@ -70,3 +70,5 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 #### Day 29 -> Jun 8th Paper reading -[A Fast and Accurate Dependency Parser using Neural Networks](https://www.emnlp2014.org/papers/pdf/EMNLP2014082.pdf) and [224 Assignment-3 Theory on Adam, Dropout](http://web.stanford.edu/class/cs224n/)
 
 #### Day 30 -> Jun 9th Blog - [PEGASUS: A State-of-the-Art Model for Abstractive Text Summarization](https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html)
+
+#### Day 31 -> Jun 10th Blog - [Paper Reading -> TransCoder: Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511) and [video](https://www.youtube.com/watch?v=xTzFJIknh7E). [Paper Reading -> Phrase Based & Neural Unsupervised Machine Translation](https://arxiv.org/abs/1804.07755)
