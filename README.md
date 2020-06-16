@@ -72,3 +72,5 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 #### Day 30 -> Jun 9th Blog - [PEGASUS: A State-of-the-Art Model for Abstractive Text Summarization](https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html)
 
 #### Day 31 -> Jun 12th Blog - [Paper Reading -> TransCoder: Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511) and [video](https://www.youtube.com/watch?v=xTzFJIknh7E). [Paper Reading -> Phrase Based & Neural Unsupervised Machine Translation](https://arxiv.org/abs/1804.07755)
+
+#### Day 32 -> Jun 16th Assignment -> Dependency parsing assignment code. Assgnmt-3 224n
