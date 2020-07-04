@@ -75,4 +75,8 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 
 #### Day 32 -> Jun 16th Assignment -> Dependency parsing assignment code. Assgnmt-3 224n
 
-#### Day 33 -> Jun 19th Assignment -> [Paper Reading -> When BERT plays lottery, All Tickets are Winning](https://arxiv.org/abs/2005.00561) and [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
+#### Day 33 -> Jun 19th -> [Paper Reading -> When BERT plays lottery, All Tickets are Winning](https://arxiv.org/abs/2005.00561) and [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
+
+## Sorry for the large gap
+
+#### Day 34 -> Jul 4th -> [Paper Reading -> Learning to Learn Words from Visual Scenes](https://arxiv.org/abs/1911.11237)
