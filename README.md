@@ -82,3 +82,5 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 #### Day 34 -> Jul 4th -> [Paper Reading -> Learning to Learn Words from Visual Scenes](https://arxiv.org/abs/1911.11237)
 
 #### Day 35 -> Jul 5th -> [CS224-N Lecture-6 Notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
+
+#### Day 36 -> Jul 9th -> [CS224-N Lecture-7 Video](https://www.youtube.com/watch?v=QEw0qEa0E50)
