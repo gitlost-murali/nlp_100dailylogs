@@ -84,3 +84,5 @@ Revised concepts from the [blog](http://mccormickml.com/2017/01/11/word2vec-tuto
 #### Day 35 -> Jul 5th -> [CS224-N Lecture-6 Notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
 
 #### Day 36 -> Jul 9th -> [CS224-N Lecture-7 Video](https://www.youtube.com/watch?v=QEw0qEa0E50)
+
+#### Day 37 -> Jul 10th -> [Paper reading -> Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://www.aclweb.org/anthology/2020.acl-main.463.pdf)
